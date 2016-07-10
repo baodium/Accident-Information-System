@@ -1,0 +1,5 @@
+route_name,route_id,accident_date,time,number_of_dead,number_injured,casualty,total_vehicle,type,salon,bus,suv,bicycle,others,mini,surface,pot_holes,failed_segment,junctions,bends,carriage_width,route_length
+"Osogbo - Ilesha",2,2013-11-04,12:00:00,2,2,4,2,Fatal,0,0,2,0,0,0,paved,142,10,35,15,8,44
+"Osogbo - Ilesha",2,2013-10-14,22:00:00,2,2,4,2,Fatal,0,0,2,0,0,0,paved,142,10,35,15,8,44
+"Osogbo - Ilesha",2,2013-09-17,11:00:00,2,0,2,2,Fatal,0,0,2,0,0,0,paved,142,10,35,15,8,44
+"Ife - Ibadan",19,2013-12-02,00:00:00,0,0,0,1,Minor,0,0,1,0,0,0,paved,50,30,3,2,7,40
